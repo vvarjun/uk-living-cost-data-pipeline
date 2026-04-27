@@ -27,3 +27,13 @@ This project helps answer:
 
 ## ⚙️ Architecture
 Raw Data → Python ETL → Processed Data → SQL Models → Dashboard (Power BI)
+## Dashboard Preview
+
+![Affordability Ratio by Region](dashboards/affordability.png)
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python3 src/transform.py
+python3 src/quality_checks.py
+python3 src/visualize.py

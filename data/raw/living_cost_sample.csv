@@ -1,0 +1,6 @@
+region,year,avg_rent,avg_salary,food_cost,transport_cost,migration_inflow,migration_outflow
+London,2023,1800,42000,350,180,95000,72000
+Manchester,2023,950,34000,300,120,48000,39000
+Birmingham,2023,850,32000,290,110,42000,36000
+Leeds,2023,780,31000,280,100,30000,26000
+Bristol,2023,1100,36000,310,130,27000,22000

@@ -1,32 +1,29 @@
 # UK Living Cost Data Pipeline
 
-## Project Overview
-This project analyses the relationship between cost of living, housing affordability, and migration trends in the UK. It demonstrates an end-to-end analytics pipeline using Python, SQL, data modelling, ETL, data quality checks, and dashboard reporting.
+## 📊 Overview
+This project analyses the relationship between cost of living, housing affordability, and migration trends across UK regions using an end-to-end data pipeline.
 
-## Business Problem
-Rising living costs and housing prices affect affordability, migration decisions, and regional economic growth. This project helps identify which regions face the highest pressure and supports data-driven decision-making.
+It demonstrates how raw data can be transformed into actionable insights for decision-making in housing, finance, and urban planning.
 
-## Use Cases
-- Identify regions with high cost-of-living pressure
-- Analyse correlation between migration and housing prices
-- Support housing, finance, and urban planning decisions
-- Provide dashboard insights for business stakeholders
+---
 
-## Tech Stack
-- Python
-- SQL
-- Pandas
-- Power BI
-- Data Modelling
-- ETL Pipelines
-- Data Quality Checks
+## 🎯 Business Problem
+Rising living costs and housing prices impact affordability and migration patterns.
 
-## Key Features
-- ETL pipeline for raw data processing
-- Star schema data model
-- Data quality validation
-- SQL analytics queries
-- Power BI dashboard-ready dataset
+This project helps answer:
+- Which regions are least affordable?
+- How does migration relate to housing pressure?
+- Where should policy or investment focus?
 
-## Skills Demonstrated
-Business Analysis, Data Analytics, SQL, Python, Data Pipelines, Star Schema, QA, Power BI, Problem Solving, Stakeholder Communication.
+---
+
+## 💡 Use Cases
+- Urban planning and housing strategy
+- Financial and affordability analysis
+- Migration trend analysis
+- Data-driven decision support
+
+---
+
+## ⚙️ Architecture
+Raw Data → Python ETL → Processed Data → SQL Models → Dashboard (Power BI)
